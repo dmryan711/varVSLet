@@ -1,0 +1,13 @@
+div{
+    background-color:red;
+    display: inline-block;
+    height:30px;
+    width:30px;
+    border:1px solid black;
+    margin: 0 2px 0 2px;
+    
+}
+
+.blue{
+    background-color:blue;
+}
