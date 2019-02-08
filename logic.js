@@ -10,7 +10,7 @@ for(var i = 0;i< 42;i++){
 }
 
 document.write('<br />');
-document.write("<h3> These boxes are created declaring let i in a for loop. var is being created each iteration of the loop (i think), so the alert WILL  work as intended. Click each box below</h3>");
+document.write("<h3> These boxes are created declaring let i in a for loop. The variable is being created each iteration of the loop (i think), so the alert WILL  work as intended. Click each box below</h3>");
 
 for(let i = 0;i< 42;i++){
     var div = document.createElement("div");
